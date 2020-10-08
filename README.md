@@ -1,15 +1,11 @@
 # express-postgresql-api
 
-into ".env" u should write 
+into ".env" u should write:
 
 SECRET_JWT_TOKEN=YOUR_TOKEN
-
-
 
 DB_USER=YOUR_USER_NAME
 DB_PASSWORD=_YOUR_USER_PASSWORD
 DB_HOST=localhost
-
 DB_PORT=5432
-
 DB_DATABASE=YOUR_DB_NAME
